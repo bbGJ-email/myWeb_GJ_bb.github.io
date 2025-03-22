@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -129,6 +128,6 @@ redirect_from:
     </footer>
 
 
-    </script>
+    
 </body>
 </html>
