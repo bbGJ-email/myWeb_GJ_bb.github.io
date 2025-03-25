@@ -94,25 +94,18 @@ redirect_from:
 </head>
 <body>
     <header>
-        <h1>欢迎来到我的网站</h1>
+        <h1></h1>
         <p>by 肝酱Briliant</p>
     </header>
 
-    <nav>
-        <ul>
-            <li><a href="#home">首页</a></li>
-            <li><a href="#about">下载</a></li>
-        </ul>
-    </nav>
+  
 
     <div class="container">
         <div class="card">
             <h2>最新动态</h2>
-            <p>这里是网站的主要内容区域...</p>
+            <p>更新内容</p>
             <ul>
-                <li>项目一：响应式网页设计</li>
-                <li>项目二：移动端适配方案</li>
-                <li>项目三：前端开发技术</li>
+                <li>2025.3.25.001：修改大部分Ui</li>
             </ul>
         </div>
 
