@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "The 肝酱Briliant's 网站"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>我的第一个网页</title>
+    <title>介绍</title>
     <style>
         * {
             margin: 0;
@@ -95,7 +95,7 @@ redirect_from:
 <body>
     <header>
         <h1>欢迎来到我的网站</h1>
-        <p>这是一个响应式网页设计示例</p>
+        <p>by 肝酱Briliant</p>
     </header>
 
     <nav>
