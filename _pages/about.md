@@ -1,6 +1,6 @@
----
+\---
 permalink: /
-title: "The 肝酱Briliant's 网站"
+title: "肝酱Briliants网站"
 author_profile: true
 redirect_from: 
   - /about/
@@ -110,11 +110,7 @@ redirect_from:
         </div>
 
        
-        <!-- 直接下载链接 -->
-        <a href="//downloads//file.zip" download>
-            立即下载素材包 (ZIP)
-        </a>
-    </div>
+        
 
     <footer>
         <p>© 2023 我的网站 版权所有</p>
